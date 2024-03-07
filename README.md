@@ -7,7 +7,7 @@
 # ABOUT US PAGE
 ![SS2](https://github.com/Kingsman119/Coffee-Shop-Web-Page/assets/154053800/aa13bd97-2951-483e-8f81-de6ffe20c63f)
 
-# GALLARY PAGE
+# GALLERY PAGE
 ![SS3](https://github.com/Kingsman119/Coffee-Shop-Web-Page/assets/154053800/abbc00ea-abca-4da6-bd83-2e22b8e2b3d2)
 
 # SERVICES PAGE
