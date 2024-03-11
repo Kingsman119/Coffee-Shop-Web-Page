@@ -1,5 +1,5 @@
 # Coffee Shop Web Page Created Using [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
- Semi Responsive Web design
+ Semi Responsive Web design Only UI.
 
 # HOME PAGE
 ![SS1](https://github.com/Kingsman119/Coffee-Shop-Web-Page/assets/154053800/f624743d-cb2d-4d74-8f93-3c015f0c41b0)
